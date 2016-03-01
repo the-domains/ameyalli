@@ -1,0 +1,28 @@
+name: Ameyalli
+favicon: null
+layout_spectrum: 0.9892912150826305
+typography_spectrum: 0.3953081478830427
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.4865661012008786
+  lightness: 0.9664054396562278
+  saturation: 0.1655370332300663
+  rhythmicContrast: 0.9506206009536982
+purpose: []
