@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T18:10:59.440Z'
-dateModified: '2016-03-02T18:08:27.176Z'
+datePublished: '2016-03-02T18:11:47.260Z'
+dateModified: '2016-03-02T18:11:33.554Z'
 title: Proyecto Educativo
 author: []
 sourcePath: _posts/2016-03-02-proyecto-educativo.md
@@ -22,6 +22,8 @@ url: proyecto-educativo/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/12e8ce3b-e147-4ee0-ad26-39167fa62384.jpg)
+
 # Proyecto Educativo
 
 Perseguimos un proyecto educativo flexible, en cuanto contempla a cada alumno como individuo, pero riguroso en la búsqueda de la excelencia y cuyos principios de operación son: 
@@ -48,6 +50,5 @@ El objetivo de todos los programas y actividades académicas es promover en los 
 La educación que se imparte es laica, mixta y bilingüe.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b01f38f2-d5cf-4970-b129-9cc648e3e336.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0fb18acd-b27a-4674-bd42-81771498d5b7.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/12e8ce3b-e147-4ee0-ad26-39167fa62384.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/13aeb0b5-2cf6-4d6a-b443-5df9c3c1621e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e73e8c11-fc64-4217-b1c4-1a0fa0d46194.jpg)
