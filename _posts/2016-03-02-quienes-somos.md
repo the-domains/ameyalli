@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T15:47:29.480Z'
-dateModified: '2016-03-02T15:16:47.924Z'
+datePublished: '2016-03-02T18:14:24.817Z'
+dateModified: '2016-03-02T18:14:08.862Z'
 title: Quiénes somos
 author: []
+sourcePath: _posts/2016-03-02-quienes-somos.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-02-quienes-somos.md
-published: true
 url: quienes-somos/index.html
 _type: Article
 
@@ -32,3 +32,7 @@ La palabra "Ameyalli" aparece en el diccionario de vocablos Náhuatl. Su signifi
 Hemos elegido este nombre para nuestra institución porque une, a su contenido sonoro de especial belleza, un significado de manantial que hemos relacionado con la fuente del saber, como lo es nuestra Escuela Ameyalli, lugar a donde niños y jóvenes acuden en busca del conocimiento.
 En cuanto al caracol, nuestro emblema, fue tomado de un libro de jeroglíficos precolombinos. Las ondas indican agua y, en cuanto a la figura, su indudable valor simbólico se relaciona con el agua, la fecundidad y con la vida misma. De hecho, el caracol resume, en su particular hermosura y presencia inofensiva, la vitalidad de la existencia misma. Así el agua, la lluvia, la fertilidad y todo cuanto forma parte de la creación se simbolizan con toda su fuerza en el caracol.
 Es interesante saber que dentro del pensamiento cosmogónico mexica, significa el génesis de la naturaleza misma. De acuerdo a esta concepción está vinculado a Quetzalcóatl y Tláloc, deidades que animan el mundo religioso del altiplano precolombino. Con frecuencia Quetzalcóatl aparece ornamentado con el caracol en pecho, orejas o en su tocado; con Tláloc, se vincula a través del agua.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5abaef7a-959b-4653-86bc-265fd54480de.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd8e6761-a6d8-4497-b791-30fa1133a6c2.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/934c4324-4f46-4e20-aeba-5bb65af1199d.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/91fb8038-3118-43f5-90d0-836ec67059b8.gif)
