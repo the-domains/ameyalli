@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-02T18:26:10.680Z'
-dateModified: '2016-03-02T18:25:57.968Z'
+datePublished: '2016-03-02T18:29:58.806Z'
+dateModified: '2016-03-02T18:29:37.706Z'
 title: Quiénes somos
 author: []
 sourcePath: _posts/2016-03-02-quienes-somos.md
