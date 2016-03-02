@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T18:14:43.234Z'
-dateModified: '2016-03-02T18:14:31.807Z'
+datePublished: '2016-03-02T18:26:10.680Z'
+dateModified: '2016-03-02T18:25:57.968Z'
 title: Quiénes somos
 author: []
 sourcePath: _posts/2016-03-02-quienes-somos.md
@@ -22,6 +22,8 @@ url: quienes-somos/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/86fc21f2-ce41-4f79-9571-3e0b15e0a768.jpg)
+
 # Quiénes somos
 
 ## ORIGEN DEL NOMBRE Y EMBLEMA DE ESCUELA 
