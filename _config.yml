@@ -1,7 +1,7 @@
 name: Ameyalli
 favicon: null
-layout_spectrum: 0.9892912150826305
-typography_spectrum: 0.3953081478830427
+layout_spectrum: 0.89146
+typography_spectrum: 0.7201
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.4865661012008786
+  brandStrength: 0.5
   lightness: 0.9664054396562278
   saturation: 0.1655370332300663
   rhythmicContrast: 0.9506206009536982
