@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Ameyalli]]></title>
         <description><![CDATA[Ameyalli]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ameyalli/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 15:47:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 02 Mar 2016 15:47:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ameyalli/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Perfil de la Comunidad Ameyalli ]]></title>
+            <description><![CDATA[<article><h1>Perfil de la Comunidad Ameyalli </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5a62f6c0f00337cb657a504b040648a81699541f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/ameyalli/perfil-de-la-comunidad-ameyalli/index.html</link>
+            <guid isPermaLink="false">8f9c0448-8895-48f6-980d-d43524286eac</guid>
+            <pubDate>Wed, 02 Mar 2016 15:47:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Valores institucionales ]]></title>
             <description><![CDATA[<article><h1>Valores institucionales </h1><p>Responsabilidad: Hacer lo que me corresponde en beneficio propio y de la comunidad, reconociendo y aceptando las consecuencias. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1f555404db758fd5c2218b81c4735e8c5e3cc7a2.jpg"></article>]]></description>
-            <link>undefinedvalores-institucionales/index.html</link>
+            <link>https://thegrid.ai/ameyalli/valores-institucionales/index.html</link>
             <guid isPermaLink="false">d9f1124e-1e3f-41a2-bab2-3aa748c6a021</guid>
             <pubDate>Wed, 02 Mar 2016 15:47:29 GMT</pubDate>
         </item>
