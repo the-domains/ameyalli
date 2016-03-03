@@ -1,7 +1,7 @@
 name: Escuela Ameyalli
 favicon: null
-layout_spectrum: 0.89146
-typography_spectrum: 0.36797
+layout_spectrum: 0.75726
+typography_spectrum: 0.27224
 title: Escuela Ameyalli
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#858179'
     - '#a3c9eb'
     - '#9c1417'
-  brandStrength: 0.75
+  brandStrength: 0.375
   lightness: 0.9664054396562278
-  saturation: 0.1875
+  saturation: 0.3125
   rhythmicContrast: 1
 purpose: []
