@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-03T19:50:19.623Z'
-dateModified: '2016-03-02T18:30:25.348Z'
+datePublished: '2016-03-03T19:55:54.073Z'
+dateModified: '2016-03-03T19:55:02.713Z'
 title: Proyecto Educativo
 author: []
 sourcePath: _posts/2016-03-02-proyecto-educativo.md
