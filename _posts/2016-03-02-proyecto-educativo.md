@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T18:11:47.260Z'
-dateModified: '2016-03-02T18:11:33.554Z'
+datePublished: '2016-03-03T19:50:19.623Z'
+dateModified: '2016-03-02T18:30:25.348Z'
 title: Proyecto Educativo
 author: []
 sourcePath: _posts/2016-03-02-proyecto-educativo.md
