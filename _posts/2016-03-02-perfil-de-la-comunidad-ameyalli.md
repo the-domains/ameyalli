@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T15:47:29.331Z'
-dateModified: '2016-03-02T15:45:16.238Z'
+datePublished: '2016-03-14T18:15:04.323Z'
+dateModified: '2016-03-14T18:15:03.904Z'
 title: "Perfil de la Comunidad Ameyalli\_"
 author: []
+sourcePath: _posts/2016-03-02-perfil-de-la-comunidad-ameyalli.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-02-perfil-de-la-comunidad-ameyalli.md
-published: true
 url: perfil-de-la-comunidad-ameyalli/index.html
 _type: Article
 
